@@ -6,3 +6,14 @@
 	path = spdlog
 	url = git@github.com:gabime/spdlog.git
 	branch = v1.8.1
+[submodule "stb"]
+	path = stb
+	url = git@github.com:nothings/stb.git
+[submodule "soloud"]
+	path = soloud
+	url = git@github.com:jarikomppa/soloud.git
+	branch = RELEASE_20200207
+[submodule "imgui"]
+	path = imgui
+	url = git@github.com:ocornut/imgui.git
+	branch = v1.79
